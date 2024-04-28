@@ -1,5 +1,5 @@
 
-1) go to gitbash
+1) go to gitbash from dropdown arrow
 
 2) touch index.html style.css script.js (create files)
 
@@ -9,4 +9,12 @@
 
 5) git init ( to create git repository)
 
+6) git add --a ( to stage changes)
 
+7) git status ( files to show the status of files )
+
+8) git commit -m "ui changes commited" (commit all changes);
+
+9) git config --global user.email "nitinpachnanda@gmail.com" ( confiqure email before commit)
+
+10) git config --global user.name "nitin" ( confiqure name before commit)
