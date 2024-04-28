@@ -18,3 +18,10 @@
 9) git config --global user.email "nitinpachnanda@gmail.com" ( confiqure email before commit)
 
 10) git config --global user.name "nitin" ( confiqure name before commit)
+
+11) go to timeline to see history
+
+12) git branch ( to craete new branch)
+
+13) git checkout about ( to switch to branch)
+
