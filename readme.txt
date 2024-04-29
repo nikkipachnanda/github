@@ -31,3 +31,6 @@
 15) git merge branchname ( make to be in master branch)
 
 16) git log --online 
+
+17) git branch --delete branch name (to delete branch name)
+
