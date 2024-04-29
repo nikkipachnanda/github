@@ -30,4 +30,4 @@
 
 15) git merge branchname ( make to be in master branch)
 
-16) git push 
+16) git log --online 
