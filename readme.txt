@@ -17,14 +17,17 @@
 9) git config --global user.email "nitinpachnanda@gmail.com" ( confiqure email before commit)
 
 10) git config --global user.name "nitin" ( confiqure name before commit)
+
 11) go to timeline to see history
 
 11) git branch 
 
-12)git branch about ( to crate branch)
+12) git branch about ( to crate branch)
 
 13)  git checkout master ( to switch to branch)
 
 14) git log --all  (to see all branches commit)
 
 15) git merge branchname ( make to be in master branch)
+
+16) git push 
