@@ -34,3 +34,10 @@
 
 17) git branch --delete branch name (to delete branch name)
 
+18) git remote show origin
+
+19) git remote add origin https://github.com/nikkipachnanda/github.git
+
+20) git branch -M main
+
+21) git push -u  origin main
