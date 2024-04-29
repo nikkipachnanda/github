@@ -19,7 +19,6 @@
 
 10) git config --global user.name "nitin" ( confiqure name before commit)
 
-<<<<<<< HEAD
 11) git branch 
 
 12)git branch about ( to crate branch)
@@ -30,11 +29,5 @@
 
 15) git branch --delete contact (go to another branch to delete current branch)
 
-=======
-11) go to timeline to see history
 
-12) git branch ( to craete new branch)
-
-13) git checkout about ( to switch to branch)
->>>>>>> about
 
