@@ -42,4 +42,4 @@
 
 21) git push -u  origin main ( to code in github)
 
-22) git push -u  origin main branchname ( to push branch on git hub)
+22) git push -u  origin branchname ( to push branch on git hub)
