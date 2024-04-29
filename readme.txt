@@ -25,5 +25,5 @@
 
 13)  git checkout master ( to switch to branch)
 
-14) git log --all  (to see all branches commit)
+14) git log --all  (to see all branches commits)
 
