@@ -27,3 +27,6 @@
 
 14) git log --all  (to see all branches commits)
 
+15) git branch --delete contact (go to another branch to delete current branch)
+
+
